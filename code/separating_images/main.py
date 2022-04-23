@@ -4,6 +4,17 @@ import numpy as np
 
 path = './samples'
 #Navigating the path where the images are.
+
+def formatFilename(filename):
+   idx = 0
+   for i in range(0, len(filename)):
+      if(filename[i] == '.'):
+         idx = i
+
+   return idx, len(filename)
+
+idx = 0
+lenFile = 0
 for r, d, f in os.walk(path):
    for filename in f:
       img = cv2.imread('./samples/{0}'.format(filename))
@@ -13,12 +24,10 @@ for r, d, f in os.walk(path):
       ret, threshold_img = cv2.threshold(half_sized_img, 80, 255, cv2.THRESH_BINARY)
       horizontally_img = np.concatenate((half_sized_img, threshold_img), axis=1)
       number_of_black_pix = np.sum(threshold_img == 0)
-      print(number_of_black_pix)
+      idx, lenFile = formatFilename(filename)
       if(number_of_black_pix <= 1500):
-         print('neg_images')
-         cv2.imwrite(os.path.join('{0}/neg_images'.format(path) , '{0}'.format(filename)), img)
+         cv2.imwrite(os.path.join('./images_listed', '{0}{1}'.format(number_of_black_pix, filename[idx : lenFile])), img)
       else:
-         print('pos_images')
-         cv2.imwrite(os.path.join('{0}/pos_images'.format(path) , '{0}'.format(filename)), img)
+         cv2.imwrite(os.path.join('./images_listed', '{0}{1}'.format(number_of_black_pix, filename[idx : lenFile])), img)
       cv2.imshow('image', horizontally_img)
       cv2.waitKey(0)
