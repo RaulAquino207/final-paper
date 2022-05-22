@@ -1,0 +1,4 @@
+llvmlite==0.38.1
+numba==0.55.1
+numpy==1.21.6
+opencv-python==4.5.5.64
