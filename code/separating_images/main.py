@@ -2,6 +2,7 @@ import os
 import cv2
 import numpy as np
 import time
+import shutil
 
 path = './samples'
 
@@ -21,6 +22,9 @@ start_time = time.time()
 
 for r, d, f in os.walk(path):
    for filename in f:
+      src = './samples/{0}'.format(filename)
+      dst = './listed_samples/{0}'.format(filename)
+      shutil.copyfile(src, dst)
       image = cv2.imread('./samples/{0}'.format(filename))
       grayscale_img = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
       rows, cols = grayscale_img.shape

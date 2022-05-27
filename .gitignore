@@ -131,4 +131,6 @@ dmypy.json
 # Datasets
 smear2005/
 samples/
-images_listed/
+listed_samples/
+base.zip
+classificationDownload.zip
