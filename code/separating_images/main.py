@@ -44,7 +44,7 @@ value = 1
 
 for count, img_infos in enumerate(dict_array):
    aux_name = '0{0}'.format(value)   
-   os.rename('samples/{0}'.format(img_infos['filename']), 'samples/{0}.png'.format(aux_name))
+   os.rename('listed_samples/{0}'.format(img_infos['filename']), 'listed_samples/{0}.png'.format(aux_name))
    value += 1
 
 print("--- %s seconds ---" % (time.time() - start_time))

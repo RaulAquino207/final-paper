@@ -1,0 +1,354 @@
+[
+    {
+        "image_id": 201,
+        "image_doi": "10.6084/m9.figshare.12230225",
+        "image_name": "a9ceb5e547fed2f7d052cdc794cb1330.png",
+        "classifications": [
+            {
+                "cell_id": 5051,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 530,
+                "nucleus_y": 826
+            },
+            {
+                "cell_id": 5052,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 503,
+                "nucleus_y": 696
+            },
+            {
+                "cell_id": 5053,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 783,
+                "nucleus_y": 717
+            },
+            {
+                "cell_id": 5054,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 835,
+                "nucleus_y": 941
+            },
+            {
+                "cell_id": 5055,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 853,
+                "nucleus_y": 881
+            },
+            {
+                "cell_id": 5056,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 928,
+                "nucleus_y": 861
+            },
+            {
+                "cell_id": 5057,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1022,
+                "nucleus_y": 838
+            },
+            {
+                "cell_id": 5058,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1087,
+                "nucleus_y": 810
+            },
+            {
+                "cell_id": 5059,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 270,
+                "nucleus_y": 507
+            },
+            {
+                "cell_id": 5060,
+                "bethesda_system": "ASC-US",
+                "nucleus_x": 237,
+                "nucleus_y": 245
+            },
+            {
+                "cell_id": 5061,
+                "bethesda_system": "ASC-US",
+                "nucleus_x": 1039,
+                "nucleus_y": 351
+            },
+            {
+                "cell_id": 5062,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 449,
+                "nucleus_y": 370
+            },
+            {
+                "cell_id": 5063,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 1063,
+                "nucleus_y": 605
+            },
+            {
+                "cell_id": 5064,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 942,
+                "nucleus_y": 830
+            }
+        ]
+    },
+    {
+        "image_id": 258,
+        "image_doi": "10.6084/m9.figshare.12230429",
+        "image_name": "a88f00847363c89e1960ade289b38612.png",
+        "classifications": [
+            {
+                "cell_id": 3748,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 63,
+                "nucleus_y": 284
+            },
+            {
+                "cell_id": 3749,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 73,
+                "nucleus_y": 367
+            },
+            {
+                "cell_id": 3750,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 127,
+                "nucleus_y": 384
+            },
+            {
+                "cell_id": 3751,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 889,
+                "nucleus_y": 350
+            },
+            {
+                "cell_id": 3752,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 590,
+                "nucleus_y": 427
+            },
+            {
+                "cell_id": 3753,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 592,
+                "nucleus_y": 490
+            },
+            {
+                "cell_id": 3754,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 587,
+                "nucleus_y": 625
+            },
+            {
+                "cell_id": 3755,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 568,
+                "nucleus_y": 712
+            },
+            {
+                "cell_id": 3756,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 722,
+                "nucleus_y": 536
+            },
+            {
+                "cell_id": 3757,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 742,
+                "nucleus_y": 509
+            },
+            {
+                "cell_id": 3758,
+                "bethesda_system": "ASC-US",
+                "nucleus_x": 474,
+                "nucleus_y": 422
+            },
+            {
+                "cell_id": 3759,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 88,
+                "nucleus_y": 9
+            },
+            {
+                "cell_id": 3760,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 87,
+                "nucleus_y": 35
+            }
+        ]
+    },
+    {
+        "image_id": 315,
+        "image_doi": "10.6084/m9.figshare.12230606",
+        "image_name": "c1d551f467cac1389043740557caae1f.png",
+        "classifications": [
+            {
+                "cell_id": 2543,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 257,
+                "nucleus_y": 552
+            },
+            {
+                "cell_id": 2544,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 244,
+                "nucleus_y": 537
+            },
+            {
+                "cell_id": 2545,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 210,
+                "nucleus_y": 559
+            },
+            {
+                "cell_id": 2546,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 522,
+                "nucleus_y": 585
+            },
+            {
+                "cell_id": 2547,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 355,
+                "nucleus_y": 577
+            },
+            {
+                "cell_id": 2548,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 350,
+                "nucleus_y": 627
+            },
+            {
+                "cell_id": 2549,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 574,
+                "nucleus_y": 531
+            },
+            {
+                "cell_id": 2550,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 597,
+                "nucleus_y": 565
+            },
+            {
+                "cell_id": 2551,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 645,
+                "nucleus_y": 609
+            },
+            {
+                "cell_id": 2552,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 667,
+                "nucleus_y": 575
+            },
+            {
+                "cell_id": 2553,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 387,
+                "nucleus_y": 394
+            },
+            {
+                "cell_id": 2554,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 43,
+                "nucleus_y": 697
+            },
+            {
+                "cell_id": 2555,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1200,
+                "nucleus_y": 313
+            },
+            {
+                "cell_id": 2556,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1203,
+                "nucleus_y": 287
+            },
+            {
+                "cell_id": 2557,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1148,
+                "nucleus_y": 392
+            },
+            {
+                "cell_id": 2558,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1093,
+                "nucleus_y": 413
+            },
+            {
+                "cell_id": 2559,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1085,
+                "nucleus_y": 512
+            },
+            {
+                "cell_id": 2560,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 823,
+                "nucleus_y": 607
+            },
+            {
+                "cell_id": 2561,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 1078,
+                "nucleus_y": 646
+            },
+            {
+                "cell_id": 2562,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 832,
+                "nucleus_y": 475
+            }
+        ]
+    },
+    {
+        "image_id": 185,
+        "image_doi": "10.6084/m9.figshare.12230174",
+        "image_name": "c02a44c85b736dce9991d38c3f5fdd14.png",
+        "classifications": [
+            {
+                "cell_id": 5304,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 319,
+                "nucleus_y": 482
+            },
+            {
+                "cell_id": 5305,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 104,
+                "nucleus_y": 407
+            },
+            {
+                "cell_id": 5306,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 978,
+                "nucleus_y": 307
+            },
+            {
+                "cell_id": 5307,
+                "bethesda_system": "Negative for intraepithelial lesion",
+                "nucleus_x": 10,
+                "nucleus_y": 137
+            },
+            {
+                "cell_id": 5308,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 1238,
+                "nucleus_y": 571
+            },
+            {
+                "cell_id": 5309,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 1253,
+                "nucleus_y": 625
+            },
+            {
+                "cell_id": 5310,
+                "bethesda_system": "LSIL",
+                "nucleus_x": 85,
+                "nucleus_y": 576
+            }
+        ]
+    }
+]
